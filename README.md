@@ -3,8 +3,8 @@
 
 - :blue_heart: Apaixonada por  tecnologia, musica, minha família!
 
-- :pencil2: Tenho conheciementos em : JavaScript, React, HTML and Css.
-- :computer: Estou aprendendo : Angular, Java, docker;
+- :pencil2: Tenho conheciementos em : JavaScript, HTML and Css.
+- :computer: Estou aprendendo : Angular, Java, React js;
 
 
 

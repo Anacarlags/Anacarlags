@@ -10,7 +10,7 @@
 
 <p>
   <a href= "https://github.com/Anacarlags/github-readme-stats">
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Anacarlags&layout=compact"/>
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Anacarlags&layout=compact">
   </a>
 </p>
 

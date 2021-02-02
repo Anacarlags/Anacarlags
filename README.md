@@ -4,7 +4,7 @@
 - :blue_heart: Apaixonada por  tecnologia, musica, minha família!
 
 - :pencil2: Tenho conheciementos em : JavaScript, HTML, CSS e Angular.
-- :computer: Estou aprendendo :  Java, React js;
+- :computer: Estou aprendendo :  Java, React js, Api Rest;
 
 
 

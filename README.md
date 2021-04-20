@@ -1,10 +1,10 @@
 # Ana Carla G.S.
 
 
-- :blue_heart: Apaixonada por  tecnologia, musica, minha família!
+- :blue_heart: Passionate about technology, music, my family!
 
-- :pencil2: Tenho conheciementos em : JavaScript, HTML, CSS e Angular.
-- :computer: Estou aprendendo :  Java, React js;
+- :pencil2: I have knowledge in: JavaScript, HTML, CSS e Angular.
+- :computer: I am learning :  Java, React js;
 
 
 

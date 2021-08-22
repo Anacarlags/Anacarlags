@@ -3,8 +3,8 @@
 
 - :blue_heart: Passionate about technology, music, my family!
 
-- :pencil2: I have knowledge in: JavaScript, HTML, CSS e Angular.
-- :computer: I am learning :  Java, React js;
+- :pencil2: I have knowledge in: JavaScript, HTML, CSS e React js.
+- :computer: I am learning :  Node js, Angular js ;
 
 
 

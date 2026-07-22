@@ -14,4 +14,6 @@
   </a>
 </p>
 
-[![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/ana-carla-gs-lta)
+[![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/ana-carla-de-lima/)
+
+

@@ -16,4 +16,6 @@
 
 [![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/ana-carla-de-lima/)  
 
-[![Trailhead](https://img.shields.co/badge/Trailhead-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/anacarladelima)
+
+<img width="100" height="100" alt="svgviewer-png-output" src="https://github.com/user-attachments/assets/f188799e-79e6-4181-9205-2b872a742bfc" />
+

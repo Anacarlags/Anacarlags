@@ -16,10 +16,4 @@
 
 [![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/ana-carla-de-lima/)  
 
-<a href="https://www.salesforce.com/trailblazer/anacarladelima" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/salesforce.svg" width="28" height="28" alt="Trailhead" style="vertical-align: middle;" />
-</a>
-
-[![Trailhead](./assets/trailhead.svg)](https://www.salesforce.com/trailblazer/anacarladelima)
-
-
+[![Trailhead](https://img.shields.co/badge/Trailhead-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/anacarladelima)

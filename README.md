@@ -1,4 +1,4 @@
-# Ana Carla G.S.
+# Ana Carla De Lima
 
 
 - :blue_heart: Passionate about technology, music and my family!
@@ -7,15 +7,7 @@
 - :computer: I am learning : C# and .Net ;
 
 
-
-<p>
-  <a href= "https://github.com/Anacarlags/github-readme-stats">
-    
-  </a>
-</p>
-
-[![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/ana-carla-de-lima/)  
-
-
-<img width="100" height="100" alt="svgviewer-png-output" src="https://github.com/user-attachments/assets/f188799e-79e6-4181-9205-2b872a742bfc" />
-
+[![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/ana-carla-de-lima/)
+<a href="https://www.salesforce.com/trailblazer/anacarladelima" target="_blank">
+  <img src="https://github.com/user-attachments/assets/f188799e-79e6-4181-9205-2b872a742bfc" width="38" height="38" alt="Trailhead" />
+</a>
